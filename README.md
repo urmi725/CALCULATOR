@@ -9,10 +9,6 @@ This project is a simple calculator application built with Python, offering both
 - **Full-Featured GUI**: A modern, stylish calculator with a display, number pad, and operator buttons.
 - **Advanced Operations**: The GUI version includes buttons for clearing the entry, backspace, and percentage calculations.
 
-## Screenshot
-
-*(You can add a screenshot of the GUI application here)*
-
 ## Getting Started
 
 ### Prerequisites
@@ -24,7 +20,8 @@ This project is a simple calculator application built with Python, offering both
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/your-username/your-calculator-repo.git
-    cd your-calculator-repo
+    cd your-calculator-repo 
+    CLONE KARNE KA TARIKA
     ```
 
 2.  **Install dependencies (if any):**
